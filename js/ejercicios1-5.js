@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // 1.- Escribe un programa de una sola línea que haga que aparezca en la pantalla un alert que diga “un mensaje”.
 alert("un mensaje");
 
@@ -12,3 +13,7 @@ document.write("Hola "+ nombreUsuario);
 let numero1 = prompt("Escribe un número");
 let numero2 = prompt("Escribe otro número");
 document.write("<p> La suma es: "+ ( parseInt(numero1)+ parseInt(numero2) ) + "</p>");
+=======
+
+
+>>>>>>> ejercicio10
